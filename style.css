@@ -1,1 +1,7 @@
-
+.name {
+  color: white;
+  font-family: Papyrus, Raleway, "Comic Sans", Verdana, Arial; 
+}
+body {
+  background-color: #2a2a2a;
+}

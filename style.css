@@ -1,4 +1,4 @@
-.home {
+.hometext {
   color: white;
   font-family: Papyrus, Raleway, "Comic Sans", Verdana, Arial, sans-serif; 
 }
@@ -8,4 +8,8 @@ body {
 
 .linktext a {
   color: white;
+}
+
+.home {
+  
 }

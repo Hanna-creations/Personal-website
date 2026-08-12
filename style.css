@@ -1,6 +1,6 @@
-.hometext {
+.home {
   color: white;
-  font-family: Papyrus, Raleway, "Comic Sans", Verdana, Arial; 
+  font-family: Papyrus, Raleway, "Comic Sans", Verdana, Arial, sans-serif; 
 }
 body {
   background-color: #2a2a2a;
